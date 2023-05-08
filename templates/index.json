@@ -1,5 +1,20 @@
 {
   "sections": {
+    "2e642806_1683530950": {
+      "type": "powr-image-slider",
+      "settings": {
+      }
+    },
+    "718b558e_1683530794": {
+      "type": "powr-image-slider",
+      "settings": {
+      }
+    },
+    "408cdc09_1683530607": {
+      "type": "powr-image-slider",
+      "settings": {
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -66,19 +81,23 @@
         "padding_bottom": 36
       }
     },
-    "408cdc09_1683530607": {
-      "type": "powr-image-slider",
+    "1683544598ad019a59": {
+      "type": "apps",
+      "blocks": {
+        "c03d9e72-23e5-4202-b212-cc047cce8542": {
+          "type": "shopify:\/\/apps\/foxsell\/blocks\/custom_product_carousel_basic\/8af31731-4b2e-455d-bbf0-ce3debb3c4bf",
+          "settings": {
+            "featured_product_list": [
+              "sleveless-pants"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "c03d9e72-23e5-4202-b212-cc047cce8542"
+      ],
       "settings": {
-      }
-    },
-    "718b558e_1683530794": {
-      "type": "powr-image-slider",
-      "settings": {
-      }
-    },
-    "2e642806_1683530950": {
-      "type": "powr-image-slider",
-      "settings": {
+        "include_margins": true
       }
     }
   },
@@ -87,6 +106,7 @@
     "718b558e_1683530794",
     "408cdc09_1683530607",
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "1683544598ad019a59"
   ]
 }
