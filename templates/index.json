@@ -88,7 +88,16 @@
           "type": "shopify:\/\/apps\/foxsell\/blocks\/custom_product_carousel_basic\/8af31731-4b2e-455d-bbf0-ce3debb3c4bf",
           "settings": {
             "featured_product_list": [
-              "sleveless-pants"
+              "sleveless-pants",
+              "black-leather-bag",
+              "blue-silk-tuxedo",
+              "chequered-red-shirt",
+              "classic-leather-jacket",
+              "led-high-tops",
+              "floral-white-top",
+              "dark-denim-top",
+              "classic-varsity-top",
+              "silk-summer-top"
             ]
           }
         }
