@@ -1,5 +1,11 @@
 {
   "sections": {
+    "54c6469a-7352-452c-bcb8-a7f2e882c9a3": {
+      "type": "scm-bannerslider",
+      "settings": {
+        "scm_banner_slider": "26452"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -96,6 +102,7 @@
     }
   },
   "order": [
+    "54c6469a-7352-452c-bcb8-a7f2e882c9a3",
     "image_banner",
     "1683544598ad019a59",
     "featured_collection"
