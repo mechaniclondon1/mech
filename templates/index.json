@@ -70,9 +70,15 @@
       "type": "powr-image-slider",
       "settings": {
       }
+    },
+    "718b558e_1683530794": {
+      "type": "powr-image-slider",
+      "settings": {
+      }
     }
   },
   "order": [
+    "718b558e_1683530794",
     "408cdc09_1683530607",
     "image_banner",
     "featured_collection"
